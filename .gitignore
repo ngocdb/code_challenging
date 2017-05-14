@@ -1,0 +1,5 @@
+wp-config.php
+.gitignore~
+.htaccess~
+.idea/
+wp-config.php~
